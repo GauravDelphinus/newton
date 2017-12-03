@@ -1,0 +1,120 @@
+(See Copyright details at the end.)
+
+SIR ISAAC NEWTON (1642 - 1727)
+______________________________
+
+Isaac Newton was born on Christmas Day, 1642, at Woolsthorpe, Lincolnshire.
+His family background and early life did not augur well for future greatness.
+Newton's father, also named Isaac, was fairly well off but illiterate, and he
+died three months before Newton was born.  His mother, Hannah Ayscough,
+remaried when Newton was three, only to abandon him on the insistence of his
+stepfather.  The boy was left in the care of the Ayscough family, a
+circumstance that helped his education (Hannah's brother William had studied
+at Cambridge, and eventually directed Newton there) but did not compensate
+emotionally for the absence of this father and mother.  Newton became
+intensely neurotic, secretive, and suspicious in later life; he never married
+and tended to make enemies rather than friends.
+
+The young Newton was more interested in building intricate machines, such as
+model windmills, than academic studies, though once he set his mind to it he
+became top of his school.  In 1661 he entered Trinity College, Cambridge, as a
+sizar.  Sizars had to earn their keep as servants to the wealthier students,
+and it was indicative of his mother's meanness that he had to become one, for
+she could afford to support him but chose not to.  Newton's early studies were
+in Aristotle, the standard curriculum of the time.  The first thinker to make
+an impression on him was Descartes, whose works were then creating a stir in
+Cambridge.  By 1664, in a series of notes he called Quaestiones quaedam
+Philosophicae, Newton was absorbed with questions of mechanics, optics, and
+the physiology of vision.  He was also struct by Descartes's geometry,
+preferring it to Euclid, which in his first encounter "he despised ... as a
+trifling book" (according to later reminiscences of de Moivre).
+
+The years 1664 to 1666 were the most important in Newton's mathematical
+development and perhaps the most creative period in the life of any
+mathematician.  In 1664 he devoured the mathematics of Descartes, Viete, and
+Wallis and began his own investigations.  Late in 1664 he conceived the idea
+of curvature, from which much of differential geometry was to grow.  The
+university was closed in 1665, which was the disastrous plague year in much of
+England.  Newton returned to Woolsthorpe, where his mathematical reflections
+became an all-consuming passion.  Fifty years later, Newton recalled the time
+as follows:
+
+   In the beginning of the year 1665 I found the Method of approximating
+   series & the Rule for reducing any dignity of any Binomial into such
+   a series.  The same year in May I found the method of Tangents of
+   Gregory & Slusius, & in November had the direct method of fluxions &
+   the next year in January had the Theory of Colours & in May following
+   I had entrance into y^e inverse method of fluxions.  And in the same
+   year I began to think of gravity extending to y^e orb of the Moon &
+   ... from Keplers rule of the periodical times of Planets ... I 
+   deduced that the forces w^(eh) keep the Planets in their Orbs must
+   [be] reciprocally as the squares of their distances from the centers
+   ... All this was in the two plague years 1665-1666.  For in those
+   days I was in the prime of my age for invention & minded Mathematics
+   & Philosophy more than [sic] at any time since. [Whiteside 1966]
+
+In addition to the achievements mentioned, Newton's discoveries in this period
+included the series for log(1 + x) and, at least in preliminary form, the
+classification of cubic curves.
+
+As we have seen, Newton's first attempts to publish his results unsuccessful;
+nevertheless, there were some who read them and recognized his genius.  In
+1669 the Lucasian Professor of Mathematics at Trinity, Isaac Barrow, resigned
+to devote himself to theology, and Newton was appointed to the chair on
+Barrow's recommendation.  Newton held the position until 1696, when he made
+the puzzling decision to accept the position of master of the Mint in London.
+The outstanding achievement of his Lucasian professorship was the classic
+Principia Mathematica (Mathematical principles of natural philosophy).
+
+The Principia, which developed the theory of gravitation based on Newton's
+inverse square law of 1665, owes its existence to a visit by Edmund Halley to
+Cambridge in 1684.  The hypothesis of the inverse square law was in the air at
+this stage - Wren, Hooke, and Halley himself had thought of it - but a
+mathematical derivation of its consequences was lacking.  Halley asked Newton
+what curve a planet would describe under this law and was delighted to learn
+that Newton had calculated it to be an ellipse.  When asked to supply his
+demonstration, Newton had some trouble reconstructing it, eventually sending
+Halley a nine-page paper, De motu corporum in gyrum (On the motion of bodies
+in an orbit), three months later.  De motu was the Principia in embryonic
+form.
+
+Realizing the importance of Newton's results, Halley communicated them to the
+Royal Society and urged Newton to expand them for publication.  His prodding
+came at just the right time.  The excitement over Newton's early discoveries
+had died down, and for the preceding six or seven years he had been wasting
+his time on alchemical experiments.  With his interest in mathematics
+rekindled, Newton devoted the next 18 months almost exclusively to Principia
+"so intent, so serious upon his studies, y^t he eat very sparingly, nay,
+ofttimes he has forget to eat at all," as a Cambridge contemporary noticed
+[Westfall 1980].  When Book I was delivered to the Royal Society in April 1686, they were still
+reluctant to publish, and it took heroic efforts from Halley to bring them
+round.  He not only risked his own money on the venture, but he had to coax
+Newton to go through with it, as Newton flew into tantrums when Hooke raised
+his own claims of priority.  Finally in 1687 the Principia was published and
+Newton's fame was secure, at least in Britain.
+
+In the early 1690s Newton worked on revising the Principia and bringing some
+of his earlier investigations into order.  As we have seen, the final form of
+his classification of cubic curves dates from this period.  In 1693 he had a
+nervous breakdown, and this may have been a factor that influenced him to
+leave Cambridge for the Mint in 1696.  He did not completely abandon science,
+becoming president of the Royal Society in 1703, but his mathematical activity
+was mainly confined to the priority dispute with Leibniz over the invention of
+the calculus.  Newton died in 1727 and was buried in Westminster Abbey.
+
+
+Copyright
+_________
+
+The above bibliographical details about Newton have been take almost verbatim
+from [Stillwell 1989], so the copyright remains with that source.
+
+Bibliography
+____________
+
+[Stillwell 1989] Mathematics and its History; Springer-Verlag, 1989.
+
+[Whiteside 1966] Newton's marvellous year: 1666 and all that; Notes and 
+                 Records, Roy. Soc. Lond., 1966.
+[Westfall  1980] Never at Rest; Cambridge University Press, Cambridge, 1980.
+
