@@ -2,7 +2,8 @@ README FILE FOR NEWTON
 ______________________
 
 This file contains important information about the program 'Newton'. Please
-go through this file before starting to use the program.
+go through this file before starting to use the program.  For documentation,
+refer https://gauravdelphinus.github.io/newton/
 
 WARRANTY STATEMENT
 __________________
