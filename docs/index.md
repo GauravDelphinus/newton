@@ -1,4 +1,4 @@
-
+![Welcome Screen](/images/screenshot_welcome.jpg?raw=true "Welcome Screen")
 
 # Summary of Features
 Following are listed the important features of this version of Newton:
@@ -21,6 +21,8 @@ Following are listed the important features of this version of Newton:
 5. You can navigate to the next day and previous day by using the keyboard shortcuts available at the bottom of the screen.
 6. You can also navigate to the Weekly View, Monthly View or the Recurrent Tasks by using the shortcuts available.
 
+![Daily View](/images/screenshot_day.jpg?raw=true "Daily View")
+
 ## Weekly View
 
 1. The weekly view displays the number of tasks, and a brief description of the tasks that have been set for the days in that particular week.
@@ -28,6 +30,8 @@ Following are listed the important features of this version of Newton:
 3. You can navigate to the next week or the previous week by using the keyboard shortcuts available at the bottom of the screen.
 4. One day is always shown as highlighted with a yellow background in the weekly view, and you can easily go directly to that day's daily view, by simply pressing ENTER when that day is selected.
 5. You can also navigate to the daily view, monthly view or recurrent tasks view by using the available shortcuts.
+
+![Weekly View](/images/screenshot_week.jpg?raw=true "Weekly View")
 
 ## Monthly View
 
@@ -38,6 +42,8 @@ Following are listed the important features of this version of Newton:
 5. You can also move to the next or previous monthly view by using the available shortcuts.
 6. The default view when Newton begins is the Monthly view, and the day that is selected by default is Today. This helps you locate what tasks you had set up for today, and for upcoming days.
 
+![Monthly View](/images/screenshot_month.jpg?raw=true "Monthly View")
+
 ## Recurrent Tasks
 
 1. Recurrent tasks are those tasks that have an associated "rule" which maps these tasks to multiple days.
@@ -46,11 +52,13 @@ Following are listed the important features of this version of Newton:
 4. Monthly schedules can also be set up. For example, you can set a recurrent task to be done on the 2nd and 4th of every month.
 5. The last kind of schedule is yearly, in which on particular dates of every year, a task can be scheduled (e.g., on 4th September of every year).
 
+![Recurrent Tasks](/images/screenshot_recurrent.jpg?raw=true "Recurrent Tasks")
+
 ## Printing Tasks to PDF
 
 Starting with Newton 0.2, you can choose to print your tasks that are recorded in the database to a PDF document using the command line.
 
-### Usage
+## Usage
 
 newton
 * `-o <filename.pdf>` specify output file name (must end if .pdf) this is the output file to which the task list will be written
@@ -68,6 +76,8 @@ newton
 * To print tasks for the week starting 12/09/2005 to ./output.pdf, do: `newton -o ./output.pdf -f 12/09/2005 -w`
 * To print tasks for today to ./output.pdf, do: `newton -o ./output.pdf --today`
 * To print tasks for 8 days starting from tomorrow to ./output.pdf, do: `newton -o ./output.pdf -f tomorrow -d 8`
+
+![Command Line Usage](/images/screenshot_command_line_usage.jpg?raw=true "Command Line Usage")
 
 ## FAQs
 
